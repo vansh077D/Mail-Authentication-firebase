@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123735350752",
+    "project_id": "mails-c938f",
+    "storage_bucket": "mails-c938f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123735350752:android:1525f21f6731e700921f85",
+        "android_client_info": {
+          "package_name": "com.example.mailing_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjhM4GH3RBziHfkfX5l0fwaxGIC1HuSpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
